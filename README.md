@@ -75,4 +75,4 @@ Com **tecnologia**, **inovação** e **dedicação**, estou pronto para construi
 
 ---
 
-Agora está mais estilizado e focado no seu trabalho como desenvolvedor Full Stack. O layout é limpo e atrativo, mantendo as informações organizadas e agradáveis visualmente. O que você acha?
+
