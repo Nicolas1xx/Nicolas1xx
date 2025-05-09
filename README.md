@@ -1,4 +1,4 @@
-Claro, Nicolas! Aqui está uma versão revisada e refinada do seu README, mantendo seu estilo e personalidade, mas com melhorias na clareza, organização e gramática:
+
 
 ---
 
