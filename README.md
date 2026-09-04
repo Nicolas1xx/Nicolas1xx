@@ -116,12 +116,12 @@ Desenvolvimento de Sistemas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolas1xx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas1xx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicolas1xx&theme=github_dark" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicolas1xx&theme=github_dark" alt="Linguagens mais utilizadas" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas1xx&theme=github-dark&hide_border=true&area=true" alt="Gráfico de contribuições" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolas1xx&theme=github_dark" alt="Resumo de atividade no GitHub" />
 
 </div>
 
@@ -133,11 +133,57 @@ Desenvolvimento de Sistemas
 
 | Área | Foco |
 |---|---|
-| **Full Stack** | aplicações completas e arquitetura |
+| **Full Stack** | Aplicações completas e arquitetura |
 | **Back-end** | APIs, autenticação e regras de negócio |
 | **Dados** | PostgreSQL, Supabase e modelagem |
-| **Cloud** | deploy, integrações e ambientes |
-| **Segurança** | proteção de dados e boas práticas |
+| **Cloud** | Deploy, integrações e ambientes |
+| **Segurança** | Proteção de dados e boas práticas |
+
+</div>
+
+---
+
+## Próximos objetivos 🚀
+
+<div align="center">
+
+| Objetivo | Direção |
+|---|---|
+| **Arquitetura** | Construir sistemas cada vez mais organizados e escaláveis |
+| **Segurança** | Evoluir em autenticação, proteção de dados e boas práticas |
+| **Cloud** | Aprofundar conhecimentos em deploy, infraestrutura e integrações |
+| **Projetos reais** | Transformar necessidades de empresas em software útil |
+| **Portfólio** | Manter projetos profissionais, organizados e bem documentados |
+
+</div>
+
+---
+
+## Minha forma de trabalhar 🧠
+
+```text
+Ideia
+  ↓
+Entender o problema
+  ↓
+Planejar a solução
+  ↓
+Desenvolver
+  ↓
+Testar
+  ↓
+Publicar
+  ↓
+Melhorar continuamente
+```
+
+---
+
+## GitHub streak 🔥
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nicolas1xx&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
 
@@ -152,6 +198,9 @@ Desenvolvimento de Sistemas
 <a href="https://www.linkedin.com/in/nicolas-kourani-a95741307/">
   <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Kourani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Nicolas Kourani" />
 </a>
+<a href="https://github.com/Nicolas1xx?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
+</a>
 
 <br/><br/>
 
@@ -159,7 +208,15 @@ Desenvolvimento de Sistemas
 
 <br/><br/>
 
+### 💡 Desenvolvendo soluções, aprendendo novas tecnologias e transformando ideias em sistemas reais.
+
+<br/>
+
 <sub>Construindo, aprendendo e evoluindo um projeto de cada vez.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-EM%20CONSTANTE%20EVOLUÇÃO-238636?style=for-the-badge" alt="Em constante evolução" />
 
 </div>
 
