@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nicolas Ricardo — Desenvolvedor Full Stack</title>
+  <desc id="desc">Animação inspirada em chuva de código, com o nome de Nicolas Ricardo em destaque.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset="0.5" stop-color="#07131b"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#22c55e" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="320" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .rain { font: 16px ui-monospace, SFMono-Regular, Consolas, monospace; fill: #22c55e; opacity: .42; animation: fall 7s linear infinite; }
+    .r2 { animation-duration: 9s; animation-delay: -4s; opacity: .30; }
+    .r3 { animation-duration: 6s; animation-delay: -2s; opacity: .52; }
+    .name { font: 700 42px Inter, Segoe UI, sans-serif; fill: #f8fafc; letter-spacing: 1px; }
+    .role { font: 500 19px ui-monospace, SFMono-Regular, Consolas, monospace; fill: #86efac; letter-spacing: 3px; }
+    .prompt { font: 15px ui-monospace, SFMono-Regular, Consolas, monospace; fill: #94a3b8; }
+    @keyframes fall { from { transform: translateY(-330px); } to { transform: translateY(360px); } }
+    @media (prefers-reduced-motion: reduce) { .rain { animation: none; transform: translateY(0); } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <circle cx="600" cy="150" r="390" fill="url(#glow)"/>
+    <g class="rain">
+      <text x="35" y="0">01</text><text x="35" y="28">const</text><text x="35" y="56">101</text><text x="35" y="84">git</text><text x="35" y="112">010</text><text x="35" y="140">api</text><text x="35" y="168">111</text>
+      <text x="165" y="-80">React</text><text x="165" y="-52">001</text><text x="165" y="-24">async</text><text x="165" y="4">110</text><text x="165" y="32">Flask</text><text x="165" y="60">011</text>
+      <text x="310" y="-150">TypeScript</text><text x="310" y="-122">101</text><text x="310" y="-94">return</text><text x="310" y="-66">000</text><text x="310" y="-38">deploy</text>
+      <text x="1010" y="-95">Next.js</text><text x="1010" y="-67">010</text><text x="1010" y="-39">server</text><text x="1010" y="-11">111</text><text x="1010" y="17">build</text>
+    </g>
+    <g class="rain r2">
+      <text x="95" y="-220">function</text><text x="95" y="-192">110</text><text x="95" y="-164">Python</text><text x="95" y="-136">001</text><text x="95" y="-108">data</text>
+      <text x="240" y="-15">PostgreSQL</text><text x="240" y="13">101</text><text x="240" y="41">commit</text><text x="240" y="69">011</text>
+      <text x="920" y="-180">Supabase</text><text x="920" y="-152">100</text><text x="920" y="-124">route</text><text x="920" y="-96">001</text>
+      <text x="1120" y="-30">Vercel</text><text x="1120" y="-2">101</text><text x="1120" y="26">REST</text><text x="1120" y="54">010</text>
+    </g>
+    <g class="rain r3">
+      <text x="15" y="-120">&lt;/&gt;</text><text x="15" y="-92">101</text><text x="15" y="-64">cloud</text>
+      <text x="385" y="-250">interface</text><text x="385" y="-222">010</text><text x="385" y="-194">secure</text>
+      <text x="825" y="-40">Node.js</text><text x="825" y="-12">111</text><text x="825" y="16">Express</text>
+      <text x="1070" y="-260">frontend</text><text x="1070" y="-232">000</text><text x="1070" y="-204">backend</text>
+    </g>
+    <rect x="305" y="68" width="590" height="184" rx="18" fill="#020617" fill-opacity=".82" stroke="#22c55e" stroke-opacity=".35"/>
+    <text x="600" y="132" text-anchor="middle" class="prompt">$ whoami</text>
+    <text x="600" y="184" text-anchor="middle" class="name" filter="url(#softGlow)">Nicolas Ricardo</text>
+    <text x="600" y="224" text-anchor="middle" class="role">DESENVOLVEDOR FULL STACK</text>
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="21.5" fill="none" stroke="#22c55e" stroke-opacity=".3"/>
+  </g>
+</svg>
