@@ -67,17 +67,19 @@ Gosto principalmente de transformar processos que antes dependiam de planilhas, 
 <div align="center">
 
 <a href="https://github.com/Nicolas1xx/frameworks-frontend-nicolas">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas1xx&repo=frameworks-frontend-nicolas&theme=github_dark&hide_border=true" alt="Frameworks Front-end" />
+  <img src="https://img.shields.io/badge/GitHub-Frameworks%20Front--end-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frameworks Front-end" />
 </a>
 <a href="https://github.com/Nicolas1xx/GERADOR-DE-CONTRATOS-SISTEMA">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas1xx&repo=GERADOR-DE-CONTRATOS-SISTEMA&theme=github_dark&hide_border=true" alt="Gerador de Contratos" />
+  <img src="https://img.shields.io/badge/GitHub-Gerador%20de%20Contratos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gerador de Contratos" />
 </a>
 
+<br/><br/>
+
 <a href="https://github.com/Nicolas1xx/PsicoApp---Emprendedorismo">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas1xx&repo=PsicoApp---Emprendedorismo&theme=github_dark&hide_border=true" alt="PsicoApp" />
+  <img src="https://img.shields.io/badge/GitHub-PsicoApp-181717?style=for-the-badge&logo=github&logoColor=white" alt="PsicoApp" />
 </a>
 <a href="https://github.com/Nicolas1xx/comunicacao-interna">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas1xx&repo=comunicacao-interna&theme=github_dark&hide_border=true" alt="Comunicação Interna" />
+  <img src="https://img.shields.io/badge/GitHub-Comunica%C3%A7%C3%A3o%20Interna-181717?style=for-the-badge&logo=github&logoColor=white" alt="Comunicação Interna" />
 </a>
 
 </div>
