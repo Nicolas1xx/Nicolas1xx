@@ -1,19 +1,19 @@
 <div align="center">
 
-# Nicolas Ricardo Kourani Leão Silva
+# Olá! Eu sou Nicolas Ricardo 👋
 
-### Desenvolvedor de Sistemas • Full Stack • ADS — SENAI Sorocaba
+### Desenvolvedor de Sistemas • Full Stack • ADS no SENAI Sorocaba
 
-Construo aplicações web, sistemas empresariais e integrações que transformam processos reais em soluções digitais organizadas, seguras e fáceis de utilizar.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Desenvolvendo+sistemas+que+resolvem+problemas+reais;Front-end+%2B+Back-end+%2B+Banco+de+Dados;React+%7C+Next.js+%7C+Python+%7C+Flask;Sempre+aprendendo%2C+construindo+e+evoluindo" alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/nicolas-kourani-a95741307/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Nicolas1xx?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/nicolas-kourani-a95741307/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Nicolas1xx?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITÓRIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+</a>
 
 </div>
 
@@ -21,139 +21,99 @@ Construo aplicações web, sistemas empresariais e integrações que transformam
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no SENAI Sorocaba** e desenvolvo projetos front-end, back-end e sistemas completos voltados a necessidades reais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no SENAI Sorocaba** e desenvolvo aplicações web, sistemas empresariais, APIs e integrações.
 
-Tenho experiência prática com aplicações administrativas, APIs REST, autenticação, bancos de dados, geração de documentos, dashboards, integrações externas e publicação de sistemas em nuvem.
+Meu foco é transformar processos reais em soluções digitais organizadas, seguras e fáceis de usar, trabalhando tanto no **front-end** quanto no **back-end** e na integração com bancos de dados e serviços em nuvem.
 
-Atualmente busco evoluir principalmente em **arquitetura de software, segurança, desenvolvimento full stack e construção de sistemas profissionais**.
+- 🎓 ADS — SENAI Sorocaba
+- 💻 Desenvolvimento Full Stack
+- 🧩 Sistemas administrativos e empresariais
+- 🔐 Interesse em segurança e arquitetura de software
+- ☁️ Deploy e manutenção com Vercel e Render
 
 ---
 
-## 🧰 Stack e ferramentas
+## 🚀 Tecnologias
 
 <div align="center">
 
 ### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular&perline=8" alt="Tecnologias Front-end" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular&perline=8" alt="Front-end" />
+### Back-end e Dados
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,postgres,sqlite,firebase,supabase&perline=8" alt="Tecnologias Back-end" />
 
-### Back-end e banco de dados
-
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,postgres,sqlite,firebase,supabase&perline=8" alt="Back-end e banco de dados" />
-
-### Desenvolvimento e deploy
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=8" alt="Ferramentas de desenvolvimento" />
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=8" alt="Ferramentas" />
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧠 Projetos em destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📚 Frameworks Front-end
+<a href="https://github.com/Nicolas1xx/frameworks-frontend-nicolas">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas1xx&repo=frameworks-frontend-nicolas&theme=github_dark&hide_border=true" alt="Frameworks Front-end" />
+</a>
+<a href="https://github.com/Nicolas1xx/GERADOR-DE-CONTRATOS-SISTEMA">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas1xx&repo=GERADOR-DE-CONTRATOS-SISTEMA&theme=github_dark&hide_border=true" alt="Gerador de Contratos" />
+</a>
 
-Repositório acadêmico com atividades desenvolvidas em **JavaScript, React, Vue, Angular, Next.js e Node.js**, incluindo aplicações publicadas e uma API REST completa.
+<a href="https://github.com/Nicolas1xx/PsicoApp---Emprendedorismo">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas1xx&repo=PsicoApp---Emprendedorismo&theme=github_dark&hide_border=true" alt="PsicoApp" />
+</a>
+<a href="https://github.com/Nicolas1xx/comunicacao-interna">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicolas1xx&repo=comunicacao-interna&theme=github_dark&hide_border=true" alt="Comunicação Interna" />
+</a>
 
-**Stack:** JavaScript • React • Vue • Angular • Next.js • Node.js • Express
-
-[➡️ Ver repositório](https://github.com/Nicolas1xx/frameworks-frontend-nicolas)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Gerador de Contratos
-
-Sistema web voltado à criação, organização e acompanhamento de contratos e fluxos administrativos.
-
-**Foco:** automação • documentos • gestão • aplicação web
-
-[➡️ Ver repositório](https://github.com/Nicolas1xx/GERADOR-DE-CONTRATOS-SISTEMA)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 PsicoApp — Empreendedorismo
-
-Projeto acadêmico voltado a psicologia, triagem, profissionais e agendamentos, com integração a serviços em nuvem.
-
-**Foco:** aplicação web • Firebase • experiência do usuário
-
-[➡️ Ver repositório](https://github.com/Nicolas1xx/PsicoApp---Emprendedorismo)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Comunicação Interna
-
-Sistema para comunicação, publicações, usuários e gestão de processos internos.
-
-**Foco:** Flask • Firebase • sistemas administrativos
-
-[➡️ Ver repositório](https://github.com/Nicolas1xx/comunicacao-interna)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🔒 Sistemas profissionais privados
+## 🔒 Sistemas profissionais
 
-Além dos projetos públicos, mantenho sistemas privados voltados a operações reais e ambientes empresariais.
+Também desenvolvo e mantenho sistemas privados voltados a operações reais.
 
-| Projeto | Área |
+| Sistema | Área |
 |---|---|
 | **Grupo L&H ERP** | Gestão operacional, financeira e contratual |
 | **Rivilog Pickup** | Gestão de coletas e operações logísticas |
-| **Rivilog Pedágios** | Registro e gestão de despesas de pedágio |
+| **Rivilog Pedágios** | Gestão de despesas de pedágio |
 | **Controle de Produção** | Produção, entregas, documentos e pagamentos |
 
-> Repositórios empresariais permanecem privados para preservar dados, credenciais e informações operacionais.
+> Os repositórios empresariais permanecem privados para proteger dados, credenciais e informações operacionais.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolas1xx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas1xx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas1xx&theme=github-dark&hide_border=true&area=true" alt="Gráfico de contribuições" />
+
+</div>
 
 ---
 
 ## ⚙️ O que eu desenvolvo
 
-- Sistemas administrativos e empresariais
-- Dashboards e painéis de gestão
-- Aplicações web responsivas
-- APIs REST
-- Autenticação e controle de acesso
-- Integrações com Firebase, Supabase e PostgreSQL
-- Automação e geração de documentos
-- Integrações com serviços externos
-- Deploy na Vercel e Render
-- Organização, manutenção e evolução de projetos existentes
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolas1xx&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas1xx&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
-
-## 🎯 Atualmente
-
 ```text
-ADS no SENAI Sorocaba
-├── Desenvolvimento Full Stack
-├── Sistemas empresariais
-├── APIs e integrações
-├── Bancos de dados
-└── Segurança e arquitetura de software
+Desenvolvimento de Sistemas
+├── Aplicações Web
+├── Sistemas Empresariais
+├── Dashboards e Painéis
+├── APIs REST
+├── Autenticação e Controle de Acesso
+├── Bancos de Dados
+├── Integrações em Nuvem
+└── Automação e Geração de Documentos
 ```
 
 ---
@@ -162,9 +122,7 @@ ADS no SENAI Sorocaba
 
 <div align="center">
 
-Quer conversar sobre tecnologia, projetos ou desenvolvimento de sistemas?
-
-<br/>
+### Vamos trocar uma ideia sobre tecnologia ou desenvolvimento?
 
 <a href="https://www.linkedin.com/in/nicolas-kourani-a95741307/">
   <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Kourani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Nicolas Kourani" />
@@ -172,6 +130,6 @@ Quer conversar sobre tecnologia, projetos ou desenvolvimento de sistemas?
 
 <br/><br/>
 
-<sub>Desenvolvendo, aprendendo e transformando ideias em sistemas.</sub>
+<sub>Construindo, aprendendo e evoluindo um projeto de cada vez.</sub>
 
 </div>
