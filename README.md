@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/matrix-rain.svg" alt="Chuva de código com o nome Nicolas Ricardo" width="100%" />
+</div>
+
 # Nicolas Ricardo Kourani Leão Silva
 
 Desenvolvedor de sistemas e estudante de Análise e Desenvolvimento de Sistemas no SENAI Sorocaba, com experiência em aplicações web, ferramentas empresariais e projetos acadêmicos.
